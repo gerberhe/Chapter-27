@@ -1,0 +1,16 @@
+Harrison Gerber Chapter 27 Review Answers
+-----------------------------------------
+1) Point, awt
+2) Constructors
+3) Parameter
+4) toString()
+5) garbage
+6) alias
+7) ==
+8) equals()
+9) String, tostring
+10) False
+11) True
+12) False
+13) True
+14) False
